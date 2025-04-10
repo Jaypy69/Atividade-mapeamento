@@ -21,5 +21,4 @@ public class Pessoaf {
 	private String nome;
 	private String cpf;
 	
-
 }
